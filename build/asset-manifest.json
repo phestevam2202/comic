@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3784fdb8.css",
+    "main.js": "/static/js/main.1b295504.js",
+    "static/media/carousel-1.webp": "/static/media/carousel-1.bea1dfa0f8f72f893764.webp",
+    "static/media/seta.png": "/static/media/seta.a48eaa7d49fff6f8748d.png",
+    "static/media/seta_2.png": "/static/media/seta_2.fbef201465fefaa7d270.png",
+    "static/media/dc.webp": "/static/media/dc.079f4b575d4c6278b471.webp",
+    "static/media/tape.png": "/static/media/tape.2622e853517023b31c9f.png",
+    "static/media/logo.webp": "/static/media/logo.d16395f53eb7c5ab38df.webp",
+    "static/media/marvel.webp": "/static/media/marvel.96f46bf82ca4d1ea1d9f.webp",
+    "index.html": "/index.html",
+    "main.3784fdb8.css.map": "/static/css/main.3784fdb8.css.map",
+    "main.1b295504.js.map": "/static/js/main.1b295504.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3784fdb8.css",
+    "static/js/main.1b295504.js"
+  ]
+}
